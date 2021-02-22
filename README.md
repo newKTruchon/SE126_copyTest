@@ -1,2 +1,2 @@
-# SE126_copyTest
-a repo test for demo; will contain copies of all info in original repo
+# SE126_202120
+this is the repo for SE126.32 Winter 2021
